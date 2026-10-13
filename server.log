@@ -1,0 +1,170 @@
+[2026-10-13T16:22:37.952Z] ERROR GET /space: validateApodDate is not defined
+[2026-10-13T16:23:56.094Z] GET /style.css
+[2026-10-13T16:23:56.114Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-10-13T16:29:39.749Z] GET /space
+[2026-10-13T16:29:39.749Z] ERROR GET /space: validateApodDate is not defined
+[2026-10-13T16:29:39.793Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-10-13T16:31:46.506Z] GET /space
+[2026-10-13T16:31:46.507Z] ERROR GET /space: validateApodDate is not defined
+[2026-10-13T16:31:46.533Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-10-13T16:31:56.301Z] GET /space
+[2026-10-13T16:31:56.311Z] ERROR GET /space: validateApodDate is not defined
+[2026-10-13T16:31:56.344Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-10-13T16:31:58.136Z] GET /
+[2026-10-13T16:31:58.144Z] GET /style.css
+[2026-10-13T16:31:58.146Z] GET /js/logout.js
+[2026-10-13T16:31:58.148Z] GET /js/login.js
+[2026-10-13T16:31:58.165Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-10-13T16:31:59.890Z] GET /space
+[2026-10-13T16:31:59.891Z] ERROR GET /space: validateApodDate is not defined
+[2026-10-13T16:31:59.925Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-10-13T16:37:29.096Z] GET /space
+[2026-10-13T16:37:29.123Z] GET /js/space.js
+[2026-10-13T16:37:29.139Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-10-13T16:38:07.226Z] GET /space
+[2026-10-13T16:38:07.234Z] GET /js/space.js
+[2026-10-13T16:38:07.247Z] GET /api/space
+[2026-10-13T16:38:07.298Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-10-13T16:39:32.732Z] GET /space
+[2026-10-13T16:39:32.748Z] GET /js/space.js
+[2026-10-13T16:39:32.758Z] GET /api/space
+[2026-10-13T16:39:32.805Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-10-13T16:39:50.054Z] GET /api/space
+[2026-10-13T16:49:09.409Z] GET /space
+[2026-10-13T16:49:09.426Z] GET /js/space.js
+[2026-10-13T16:49:09.431Z] GET /api/space
+[2026-10-13T16:49:14.300Z] GET /space
+[2026-10-13T16:49:14.310Z] GET /js/space.js
+[2026-10-13T16:49:14.315Z] GET /api/space
+[2026-10-13T16:53:29.445Z] GET /space
+[2026-10-13T16:53:29.456Z] GET /js/space.js
+[2026-10-13T16:53:29.461Z] GET /api/space
+[2026-10-13T16:56:39.835Z] GET /space
+[2026-10-13T16:56:39.861Z] GET /js/space.js
+[2026-10-13T16:56:39.864Z] GET /api/space
+[2026-10-13T16:56:39.865Z] ERROR GET /api/space: name is not defined
+[2026-10-13T16:56:43.644Z] GET /space
+[2026-10-13T16:56:43.656Z] GET /js/space.js
+[2026-10-13T16:56:43.661Z] ERROR GET /api/space: name is not defined
+[2026-10-13T16:56:43.660Z] GET /api/space
+[2026-10-13T16:57:44.879Z] GET /space
+[2026-10-13T16:57:44.902Z] GET /js/space.js
+[2026-10-13T16:57:44.906Z] GET /api/space
+[2026-10-13T16:57:44.908Z] ERROR GET /api/space: name is not defined
+[2026-10-13T16:57:49.562Z] GET /api/space
+[2026-10-13T16:57:49.563Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:03:41.624Z] GET /space
+[2026-10-13T17:03:41.636Z] GET /js/space.js
+[2026-10-13T17:03:41.642Z] GET /api/space
+[2026-10-13T17:03:41.643Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:03:55.760Z] GET /space
+[2026-10-13T17:03:55.781Z] GET /js/space.js
+[2026-10-13T17:03:55.785Z] GET /api/space
+[2026-10-13T17:03:55.787Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:05:52.943Z] GET /space
+[2026-10-13T17:05:52.955Z] GET /js/space.js
+[2026-10-13T17:05:52.959Z] GET /api/space
+[2026-10-13T17:05:52.960Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:05:53.343Z] GET /space
+[2026-10-13T17:05:53.354Z] GET /js/space.js
+[2026-10-13T17:05:53.361Z] GET /api/space
+[2026-10-13T17:05:53.362Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:05:54.874Z] GET /api/space
+[2026-10-13T17:05:54.876Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:05:57.674Z] GET /api/space
+[2026-10-13T17:05:57.675Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:00.169Z] GET /space
+[2026-10-13T17:08:00.190Z] GET /js/space.js
+[2026-10-13T17:08:00.196Z] GET /api/space
+[2026-10-13T17:08:00.197Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:00.961Z] GET /space
+[2026-10-13T17:08:00.973Z] GET /js/space.js
+[2026-10-13T17:08:00.977Z] GET /api/space
+[2026-10-13T17:08:00.978Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:43.783Z] GET /space
+[2026-10-13T17:08:43.854Z] GET /js/space.js
+[2026-10-13T17:08:43.860Z] GET /api/space
+[2026-10-13T17:08:43.861Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:44.399Z] GET /space
+[2026-10-13T17:08:44.410Z] GET /js/space.js
+[2026-10-13T17:08:44.413Z] GET /api/space
+[2026-10-13T17:08:44.414Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:44.854Z] GET /space
+[2026-10-13T17:08:44.867Z] GET /js/space.js
+[2026-10-13T17:08:44.870Z] GET /api/space
+[2026-10-13T17:08:44.871Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:45.310Z] GET /space
+[2026-10-13T17:08:45.320Z] GET /js/space.js
+[2026-10-13T17:08:45.324Z] GET /api/space
+[2026-10-13T17:08:45.324Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:45.493Z] GET /space
+[2026-10-13T17:08:45.503Z] GET /js/space.js
+[2026-10-13T17:08:45.507Z] GET /api/space
+[2026-10-13T17:08:45.508Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:45.678Z] GET /space
+[2026-10-13T17:08:45.689Z] GET /js/space.js
+[2026-10-13T17:08:45.692Z] GET /api/space
+[2026-10-13T17:08:45.693Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:45.838Z] GET /space
+[2026-10-13T17:08:45.852Z] GET /js/space.js
+[2026-10-13T17:08:45.856Z] GET /api/space
+[2026-10-13T17:08:45.856Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:45.990Z] GET /space
+[2026-10-13T17:08:46.005Z] GET /js/space.js
+[2026-10-13T17:08:46.008Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:46.008Z] GET /api/space
+[2026-10-13T17:08:46.173Z] GET /space
+[2026-10-13T17:08:46.184Z] GET /js/space.js
+[2026-10-13T17:08:46.188Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:46.187Z] GET /api/space
+[2026-10-13T17:08:46.348Z] GET /space
+[2026-10-13T17:08:46.357Z] GET /js/space.js
+[2026-10-13T17:08:46.362Z] GET /api/space
+[2026-10-13T17:08:46.363Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:50.058Z] GET /api/space
+[2026-10-13T17:08:50.058Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:50.385Z] GET /api/space
+[2026-10-13T17:08:50.386Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:50.561Z] GET /api/space
+[2026-10-13T17:08:50.562Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:08:50.722Z] GET /api/space
+[2026-10-13T17:08:50.723Z] ERROR GET /api/space: name is not defined
+[2026-10-13T17:09:23.376Z] GET /space
+[2026-10-13T17:09:23.398Z] GET /js/space.js
+[2026-10-13T17:09:23.403Z] GET /api/space
+[2026-10-13T17:09:23.934Z] GET /space
+[2026-10-13T17:09:23.945Z] GET /js/space.js
+[2026-10-13T17:09:23.948Z] GET /api/space
+[2026-10-13T17:10:33.245Z] GET /
+[2026-10-13T17:10:33.276Z] GET /style.css
+[2026-10-13T17:10:33.279Z] GET /js/logout.js
+[2026-10-13T17:10:33.280Z] GET /js/login.js
+[2026-10-13T17:10:35.619Z] GET /projects
+[2026-10-13T17:10:35.620Z] ERROR GET /projects: ENOENT: no such file or directory, stat 'D:\Nylaeh PWD\ExpressServer\public\projects.html'
+[2026-10-13T17:10:40.010Z] GET /guestbook
+[2026-10-13T17:10:40.035Z] GET /
+[2026-10-13T17:10:40.052Z] GET /style.css
+[2026-10-13T17:10:40.053Z] GET /js/logout.js
+[2026-10-13T17:10:40.054Z] GET /js/login.js
+[2026-10-13T17:10:44.276Z] POST /login
+[2026-10-13T17:10:44.280Z] GET /api/whoami
+[2026-10-13T17:10:44.289Z] GET /
+[2026-10-13T17:10:44.303Z] GET /style.css
+[2026-10-13T17:10:44.304Z] GET /js/logout.js
+[2026-10-13T17:10:44.305Z] GET /js/login.js
+[2026-10-13T17:10:46.326Z] GET /guestbook
+[2026-10-13T17:10:46.349Z] GET /style.css
+[2026-10-13T17:10:46.352Z] GET /js/guestbook.js
+[2026-10-13T17:10:46.355Z] GET /api/guestbook
+[2026-10-13T17:10:47.634Z] GET /dashboard
+[2026-10-13T17:10:47.666Z] GET /style.css
+[2026-10-13T17:10:49.109Z] GET /projects
+[2026-10-13T17:10:49.110Z] ERROR GET /projects: ENOENT: no such file or directory, stat 'D:\Nylaeh PWD\ExpressServer\public\projects.html'
+[2026-10-13T17:15:27.032Z] GET /dashboard
+[2026-10-13T17:15:27.046Z] GET /style.css
+[2026-10-13T17:16:28.550Z] GET /dashboard
+[2026-10-13T17:16:28.561Z] GET /style.css
+[2026-10-13T17:16:30.216Z] GET /space
+[2026-10-13T17:16:30.236Z] GET /style.css
+[2026-10-13T17:16:30.238Z] GET /js/space.js
+[2026-10-13T17:16:30.243Z] GET /api/space

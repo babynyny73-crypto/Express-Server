@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="nav-links" aria-label="Main navigation">
+        <a href="/">Home</a>
+        <a href="/projects">Projects</a>
+        <a href="/guestbook">Guestbook</a>
+        <a href="/dashboard">Dashboard</a>
+        <a href="/space">Space</a>
+    </nav>
+    <h1>That girl's Express server</h1>
+    <p>I hope you enjoy my page</p>
+    <div id="login-section">
+        <h2>login</h2>
+        <form id="login-form" action="/login" method="post">
+            <label for="password">Password</label>
+            <input id="password" name="password" type="password" required>
+            <label><input type="checkbox" name="rememberMe" /> Remember me</label>
+
+            <button type="submit">login</button>
+        </form>
+    </div>
+
+    <p id="status"></p>
+    <p id="login-message" role="status"></p>
+    <button id="logout-button" type="button" hidden>Log Out</button>
+
+    <script src="/js/logout.js"></script>
+    <script src="/js/login.js"></script>
+
+</body>
+
+</html>

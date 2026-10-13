@@ -1,0 +1,229 @@
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f0f7;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Navigation bar */
+.nav-links {
+    background-color: #6b4c7a;
+    padding: 15px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    display: inline-block;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
+
+/* Headings */
+h1 {
+    color: #6b4c7a;
+    text-align: center;
+    margin-top: 30px;
+}
+
+h2 {
+    color: #6b4c7a;
+}
+
+/* Paragraphs */
+p {
+    text-align: center;
+    line-height: 1.6;
+}
+
+/* Forms */
+form {
+    max-width: 500px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+textarea {
+    height: 120px;
+    resize: vertical;
+}
+
+/* Buttons */
+button {
+    background-color: #6b4c7a;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+button:hover {
+    background-color: #513960;
+}
+
+/* Guestbook */
+#guestbook-list {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 0;
+}
+
+#guestbook-list li {
+    list-style: none;
+    background-color: white;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 8px;
+    border-left: 4px solid #6b4c7a;
+}
+
+/* Logout button */
+#logout-button {
+    display: block;
+    margin: 20px auto;
+}
+
+/* Space Picture of the Day */
+#space-form {
+    max-width: 500px;
+    text-align: center;
+}
+
+#space-form input[type="date"] {
+    display: block;
+    width: 100%;
+}
+
+#space-form button {
+    margin-top: 5px;
+}
+
+#status {
+    max-width: 600px;
+    margin: 20px auto;
+    color: #513960;
+    font-weight: bold;
+}
+
+/* NASA picture results */
+#result {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Respect the hidden attribute until a picture is loaded */
+#result[hidden] {
+    display: none;
+}
+
+#result h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#date-shown {
+    color: #6b4c7a;
+    font-weight: bold;
+}
+
+#picture {
+    display: block;
+    max-width: 100%;
+    max-height: 650px;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 10px;
+    object-fit: contain;
+}
+
+#description {
+    text-align: left;
+    line-height: 1.8;
+    margin: 20px 0;
+    overflow-wrap: anywhere;
+}
+
+#nasa-link {
+    display: block;
+    width: fit-content;
+    max-width: 100%;
+    margin: 20px auto 5px;
+    padding: 12px 18px;
+    background-color: #6b4c7a;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#nasa-link:hover {
+    background-color: #513960;
+    text-decoration: underline;
+}
+
+/* Mobile-friendly layout */
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+
+    .nav-links {
+        padding: 12px 8px;
+    }
+
+    .nav-links a {
+        margin: 6px 8px;
+    }
+
+    h1 {
+        font-size: 25px;
+    }
+
+    form {
+        padding: 15px;
+    }
+
+    #result {
+        padding: 15px;
+    }
+
+    #picture {
+        max-height: 450px;
+    }
+}
