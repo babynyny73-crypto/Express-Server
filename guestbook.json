@@ -1,26 +1,44 @@
 [
   {
-    "id": "993a027e-e7ed-4082-a9bc-645d8cb12814",
-    "name": "Test",
-    "msg": "Hello from the console",
-    "createdAt": "2026-10-01T16:39:11.984Z"
-  },
-  {
-    "id": "ac19ca76-4b8c-4625-bdeb-592aa7611b13",
+    "id": "13e71c3b-a90d-4b77-8e7d-b5338a1d4067",
     "name": "nylaeh",
-    "msg": "hei\n",
-    "createdAt": "2026-10-02T17:27:52.228Z"
+    "msg": "wassup queens and kings",
+    "authorId": "24a48452-b14a-4c6c-a074-26dbe77ce166",
+    "createdAt": "2026-10-28T16:39:19.203Z"
   },
   {
-    "id": "1fac4f5a-b99a-4b05-a20c-c75f62e954f9",
-    "name": "Nylaeh Thompson",
-    "msg": "hi",
-    "createdAt": "2026-10-06T16:11:50.927Z"
+    "id": "cc17c16d-ce3a-4fd8-8c33-4dd111fbe53d",
+    "name": "spambot",
+    "msg": "Buy cheap sunglasses at cheap-spam.example!",
+    "authorId": "3e21f24b-aadb-49d1-aec5-73042c6f40ba",
+    "createdAt": "2026-10-28T17:08:17.795Z"
   },
   {
-    "id": "9c5d39e6-eb34-42ff-a074-b51ba4368962",
-    "name": "ny",
-    "msg": "hi",
-    "createdAt": "2026-10-06T16:53:20.196Z"
+    "id": "15b8b55a-c643-4b86-816e-912927dc0fde",
+    "name": "spambot",
+    "msg": "You won a FREE phone! Click cheap-spam.example",
+    "authorId": "3e21f24b-aadb-49d1-aec5-73042c6f40ba",
+    "createdAt": "2026-10-28T17:08:17.806Z"
+  },
+  {
+    "id": "f3b5f3ea-fcfa-46b2-bc60-f9c11187edea",
+    "name": "spambot",
+    "msg": "Make $5000 a day from home!!! cheap-spam.example",
+    "authorId": "3e21f24b-aadb-49d1-aec5-73042c6f40ba",
+    "createdAt": "2026-10-28T17:08:17.809Z"
+  },
+  {
+    "id": "f52c5ce4-baef-4aa4-b1b5-7f64a66f21a5",
+    "name": "spambot",
+    "msg": "Best deals on sneakers, visit cheap-spam.example",
+    "authorId": "3e21f24b-aadb-49d1-aec5-73042c6f40ba",
+    "createdAt": "2026-10-28T17:08:17.812Z"
+  },
+  {
+    "id": "24dff62b-039a-4c2b-9fe6-c93d09acc9ed",
+    "name": "spambot",
+    "msg": "Hot singles in your area?? cheap-spam.example",
+    "authorId": "3e21f24b-aadb-49d1-aec5-73042c6f40ba",
+    "createdAt": "2026-10-28T17:08:17.816Z"
   }
 ]

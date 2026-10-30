@@ -1,0 +1,23 @@
+[
+  {
+    "id": "5eed1d64-cc75-43d1-ba26-86ca674af654",
+    "username": "admin",
+    "passwordHash": "$2b$12$n2A556lsArJomGyCS3K6ceOQMR3GVSvTQkJoCG0zdsVf83Ms3VePC",
+    "role": "admin",
+    "createdAt": "2026-10-28T16:27:14.177Z"
+  },
+  {
+    "id": "24a48452-b14a-4c6c-a074-26dbe77ce166",
+    "username": "nylaeh",
+    "passwordHash": "$2b$12$85XzkamTfXGyaX4WKP1f5eRrPlp2XpZ9EjZJ4De.LK27vLaHjElDa",
+    "role": "user",
+    "createdAt": "2026-10-28T16:39:06.729Z"
+  },
+  {
+    "id": "3e21f24b-aadb-49d1-aec5-73042c6f40ba",
+    "username": "spambot",
+    "passwordHash": "$2b$12$kRYPy3a0AkDgPv/0saL.T.mmhGxMoZFLYFKSr8VYjxYldb2y9OhUi",
+    "role": "user",
+    "createdAt": "2026-10-28T17:08:17.687Z"
+  }
+]
